@@ -64,3 +64,6 @@ function sortearAmigo() {
     const ulListaAmigos = document.getElementById('listaAmigos');
     ulListaAmigos.innerHTML = ""; // Limpiar la lista en el HTML
 }
+
+console.log('No hagas trampa!!!');
+//Sonrie si llegaste aqui :b
